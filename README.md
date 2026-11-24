@@ -1,5 +1,6 @@
 # Production-Style VPC Network on AWS
-![AWS VPC Architecture](https://github.com/besasas/production-vpc-network/tree/main)
+![AWS VPC Architecture](production-vpc-network
+/Production-Style AWS VPC Architecture.png)
 ## 1. Project Overview
 
 This project demonstrates the design and implementation of a production-style network infrastructure on Amazon Web Services (AWS).
